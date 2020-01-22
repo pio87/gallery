@@ -1,5 +1,14 @@
 # Just another gallery project
 
+## Live demo:
+
+https://my-samples-peter.s3-eu-west-1.amazonaws.com/build/index.html
+
+## Available Scripts
+Install all dependencies using 
+
+### `yarn install`
+
 ## Available Scripts
 
 In the project directory, you can run:
